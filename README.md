@@ -5,9 +5,11 @@ Recommended Structure and Order
 HR Analytics Dashboard – Employee Attrition Insights
 
 2. Short Description / Purpose
-This dashboard is designed to analyze and visualize employee attrition patterns within an organization. It provides insights into workforce demographics, education background, salary distribution, years of service, and job roles most affected by attrition. Purpose: To help HR and management identify key factors contributing to attrition and make data-driven decisions to improve employee retention.
+This dashboard is designed to analyze and visualize employee attrition patterns within an organization. It provides insights into workforce demographics, education background, salary distribution, years of service, and job roles most affected by attrition.
 
-3. Tech Stack
+Purpose: To help HR and management identify key factors contributing to attrition and make data-driven decisions to improve employee retention.
+
+4. Tech Stack
 The dashboard was build using the following tools and technologies:
 
 📊 Power BI – Microsoft’s business intelligence tool used for creating interactive dashboards and visual reports.
