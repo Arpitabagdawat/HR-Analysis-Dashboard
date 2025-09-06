@@ -2,14 +2,17 @@
 Recommended Structure and Order
 
 1. Project Title / Headline
+   
 HR Analytics Dashboard – Employee Attrition Insights
 
 2. Short Description / Purpose
+
 This dashboard is designed to analyze and visualize employee attrition patterns within an organization. It provides insights into workforce demographics, education background, salary distribution, years of service, and job roles most affected by attrition.
 
 Purpose: To help HR and management identify key factors contributing to attrition and make data-driven decisions to improve employee retention.
 
-4. Tech Stack
+3. Tech Stack
+   
 The dashboard was build using the following tools and technologies:
 
 📊 Power BI – Microsoft’s business intelligence tool used for creating interactive dashboards and visual reports.
@@ -23,6 +26,7 @@ The dashboard was build using the following tools and technologies:
 📁 FIle Format - .pbix for development and .png for deshboard previews.
 
 4. Data Source
+   
 📑 CSV File (.csv) – Raw HR Analytics dataset downloaded from Kaggle, used as the primary data source.
 
 5. Features / Highlights
@@ -41,4 +45,5 @@ The dashboard was build using the following tools and technologies:
 ⏳ Attrition by Years of Service – Breakdown of attrition based on tenure
 
 6.Screenshots / Demos
+
 ![Dashboard Preview].(https://github.com/Arpitabagdawat/HR_Analysis-Project/blob/main/HR%20analysis.png).
