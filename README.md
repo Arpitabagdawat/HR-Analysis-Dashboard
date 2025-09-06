@@ -30,6 +30,7 @@ The dashboard was build using the following tools and technologies:
 📑 CSV File (.csv) – Raw HR Analytics dataset downloaded from Kaggle, used as the primary data source.
 
 **5. Features / Highlights**
+
 📊 KPIs: Count of Employees, Attrition Count, Average Age, Average Salary, Average Years of Service
 
 🟠 Attrition by Education – Pie chart showing distribution by education fields
