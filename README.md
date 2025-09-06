@@ -39,4 +39,4 @@ The dashboard was build using the following tools and technologies:
 ⏳ Attrition by Years of Service – Breakdown of attrition based on tenure
 
 6.Screenshots / Demos
-![Dashboard Preview].(https://github.com/Arpitabagdawat/HR-Analysis-Project/blob/main/HR%20analysis.png).
+![Dashboard Preview].(https://github.com/Arpitabagdawat/HR_Analysis-Project/blob/main/HR%20analysis.png).
